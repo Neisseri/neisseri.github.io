@@ -3,7 +3,7 @@ layout: post
 title: 桃花扇
 date: 2023-06-20 21:59:00 +0800
 category: 读书笔记-诗歌戏曲
-thumbnail: /style/image/thumbnail.png
+thumbnail: /style/image/peach-blossom-fan.jpeg
 icon: note
 ---
 
