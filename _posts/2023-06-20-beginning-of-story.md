@@ -2,7 +2,7 @@
 layout: post
 title: 自此而始
 date: 2023-06-20 20:51:00 +0800
-category: essay
+category: 随笔杂谈
 thumbnail: /img/n.jpg
 icon: note
 ---
