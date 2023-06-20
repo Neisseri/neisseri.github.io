@@ -1,0 +1,17 @@
+---
+layout: post
+title: 自此而始
+date: 2023-06-20 20:51:00 +0800
+category: essay
+thumbnail: /style/image/thumbnail.png
+icon: note
+---
+
+
+* content
+{:toc}
+
+这是故事的起点。
+折腾了一整天终于跑通的Blog。要说有什么缺陷，应该就是这个板子没有文件夹的功能；不过 可以慢慢改。
+
+目前计划发布的主要内容有三：读书笔记，计算机自学笔记，以及一些杂谈。之前存放全部读书笔记的git仓库，出于安全考虑已经转为private，因此会在博客里放一些温和无害的读书笔记，以供分享。
