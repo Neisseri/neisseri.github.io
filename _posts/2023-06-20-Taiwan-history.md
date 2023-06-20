@@ -11,7 +11,7 @@ icon: note
 * content
 {:toc}
 
-台灣歷史綱要
+# 台灣歷史綱要
 
 *陳孔立*
 
