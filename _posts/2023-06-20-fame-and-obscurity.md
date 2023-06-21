@@ -7,6 +7,9 @@ thumbnail: /img/gay-talese.jpg
 icon: note
 ---
 
+* content
+{:toc}
+
 # 被仰望的与被遗忘的
 
 *【美】盖伊·特立斯*

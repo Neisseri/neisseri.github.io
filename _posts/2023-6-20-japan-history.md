@@ -7,6 +7,9 @@ thumbnail: /img/japan-history.jpg
 icon: note
 ---
 
+* content
+{:toc}
+
 # 战后日本经济史：从喧嚣到沉寂的70年
 
 【日】野口悠纪雄
