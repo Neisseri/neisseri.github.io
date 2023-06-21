@@ -3,7 +3,7 @@ layout: post
 title: 美国精神的封闭
 date: 2023-06-21 11:52:00 +0800
 category: 自学笔记
-thumbnail: /img/allan-bloom.jpg
+thumbnail: /img/america.jpg
 icon: note
 ---
 
