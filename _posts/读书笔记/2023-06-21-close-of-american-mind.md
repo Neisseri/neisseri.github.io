@@ -2,7 +2,7 @@
 layout: post
 title: 美国精神的封闭
 date: 2023-06-21 11:52:00 +0800
-category: 自学笔记
+category: 读书笔记-政论社科
 thumbnail: /img/america.jpg
 icon: note
 ---
