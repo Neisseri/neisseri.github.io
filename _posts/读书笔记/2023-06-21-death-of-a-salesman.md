@@ -3,7 +3,7 @@ layout: post
 title: 推销员之死
 date: 2023-06-21 18:46:00 +0800
 category: 读书笔记-小说戏剧
-thumbnail: /img/death-salesman.jpg
+thumbnail: /img/salesman.jpg
 icon: note
 ---
 
