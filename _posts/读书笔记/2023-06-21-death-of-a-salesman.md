@@ -10,9 +10,9 @@ icon: note
 * content
 {:toc}
 
-# 推销员之死
+# 推销员之死(Death of a Salesman)
 
-【美】阿瑟·米勒
+【美】阿瑟·米勒(Arthur Miller)
 
 
 
