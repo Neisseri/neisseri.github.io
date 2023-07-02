@@ -3,7 +3,7 @@ layout: post
 title: 置身事内：中国政府与经济发展（上）
 date: 2023-07-02 23:15:00 +0800
 category: 读书笔记-当代中国
-thumbnail: /img/xiaohuan-lan.jpg
+thumbnail: /img/xiaohuanLan.jpg
 icon: note
 ---
 
