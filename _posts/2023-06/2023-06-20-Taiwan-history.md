@@ -2,7 +2,7 @@
 layout: post
 title: 台灣歷史綱要
 date: 2023-06-20 22:20:00 +0800
-category: 读书笔记-历史传记
+category: 历史传记
 thumbnail: /style/image/taiwan.jpg
 icon: note
 ---

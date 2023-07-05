@@ -2,7 +2,7 @@
 layout: post
 title: 刘擎西方现代思想讲义
 date: 2023-06-21 12:40:00 +0800
-category: 读书笔记-科学哲学
+category: 科学哲学
 thumbnail: /img/QingLiu.jpeg
 icon: note
 ---

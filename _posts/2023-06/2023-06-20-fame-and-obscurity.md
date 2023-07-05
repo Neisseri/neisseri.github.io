@@ -2,7 +2,7 @@
 layout: post
 title: 被仰望的与被遗忘的
 date: 2023-06-20 23:25:00 +0800
-category: 读书笔记-非虚构类
+category: 非虚构
 thumbnail: /img/gay-talese.jpg
 icon: note
 ---

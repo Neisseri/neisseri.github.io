@@ -2,7 +2,7 @@
 layout: post
 title: 都是我的儿子
 date: 2023-06-28 12:02:00 +0800
-category: 读书笔记-小说戏剧
+category: 西方戏剧
 thumbnail: /img/all-my-sons.jpg
 icon: note
 ---

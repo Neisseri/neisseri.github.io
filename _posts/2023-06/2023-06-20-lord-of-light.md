@@ -2,7 +2,7 @@
 layout: post
 title: 光明王
 date: 2023-06-21 12:45:00 +0800
-category: 读书笔记-科幻奇幻
+category: 科幻奇幻
 thumbnail: /img/lord-of-light.jpg
 icon: note
 ---

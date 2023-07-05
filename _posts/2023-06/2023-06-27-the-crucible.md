@@ -2,7 +2,7 @@
 layout: post
 title: 萨勒姆的女巫
 date: 2023-06-27 11:14:00 +0800
-category: 读书笔记-小说戏剧
+category: 西方戏剧
 thumbnail: /img/the-crucible.jpg
 icon: note
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 战后日本经济史：从喧嚣到沉寂的70年
 date: 2023-06-20 23:36:00 +0800
-category: 读书笔记-历史传记
+category: 历史传记
 thumbnail: /img/japan-history.jpg
 icon: note
 ---

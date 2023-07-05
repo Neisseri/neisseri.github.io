@@ -2,7 +2,7 @@
 layout: post
 title: 悉达多：一首印度的诗
 date: 2023-07-05 15:13:00 +0800
-category: 读书笔记-小说戏剧
+category: 诗与小说
 thumbnail: /img/hesse.png
 icon: note
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 天气之子
 date: 2023-07-05 16:19:00 +0800
-category: 读书笔记-影视作品
+category: 影视作品
 thumbnail: /img/weathering-with-you.jpg
 icon: note
 ---

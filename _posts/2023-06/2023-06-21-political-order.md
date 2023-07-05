@@ -2,7 +2,7 @@
 layout: post
 title: 政治秩序的起源：从前人类时代到法国大革命
 date: 2023-06-21 12:30:00 +0800
-category: 读书笔记-政论社科
+category: 政论社科
 thumbnail: /img/fukuyama.png
 icon: note
 ---
