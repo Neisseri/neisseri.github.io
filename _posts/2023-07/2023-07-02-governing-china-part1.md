@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 置身事内：中国政府与经济发展（上）
+title: 置身事内：中国政府与经济发展 上篇 微观机制
 date: 2023-07-02 23:15:00 +0800
 category: 当代中国
 thumbnail: /img/xiaohuanLan.jpg
