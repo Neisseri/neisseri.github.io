@@ -3,7 +3,7 @@ layout: post
 title: 大明王朝1566
 date: 2023-10-11 11:48:00 +0800
 category: 影视作品
-thumbnail: /img/ming-dynasty1566.jpg
+thumbnail: /img/ming_dynasty1566.jpg
 icon: note
 ---
 
