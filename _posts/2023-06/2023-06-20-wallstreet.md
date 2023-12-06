@@ -2,7 +2,7 @@
 layout: post
 title: 伟大的博弈：华尔街金融帝国的崛起(1653~2011)
 date: 2023-06-20 22:14:00 +0800
-category: 商业金融
+category: 经济金融
 thumbnail: /style/image/wallstreet.jpg
 icon: note
 ---
