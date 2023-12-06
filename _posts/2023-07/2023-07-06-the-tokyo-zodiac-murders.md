@@ -2,7 +2,7 @@
 layout: post
 title: 占星术杀人魔法
 date: 2023-07-06 19:57:00 +0800
-category: 推理小说
+category: 悬疑推理
 thumbnail: /img/zodiac.jpg
 icon: note
 ---

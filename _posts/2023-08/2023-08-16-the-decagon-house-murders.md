@@ -2,7 +2,7 @@
 layout: post
 title: 十角馆事件
 date: 2023-08-16 9:25:00 +0800
-category: 推理小说
+category: 悬疑推理
 thumbnail: /img/the-decagon-house-murders.jpg
 icon: note
 ---
